@@ -5,6 +5,9 @@
         <group>
             <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/src/java/Models/UserDAO.java</file>
             <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/src/java/Controllers/UserController.java</file>
+            <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/src/java/Controllers/AuthController.java</file>
+            <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/web/Views/Auth/login.jsp</file>
+            <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/web/Views/users/add.jsp</file>
             <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/web/Views/users/list.jsp</file>
             <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/src/java/Models/User.java</file>
             <file>file:/C:/Users/iduni/OneDrive/Documents/NetBeansProjects/InventoryManagementSysytem-MVC/web/Views/users/edit.jsp</file>
